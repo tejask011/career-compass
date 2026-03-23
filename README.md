@@ -108,6 +108,3 @@ supabase/
    - 🎯 Career Paths
    - 📅 30-Day Plan
 
-## 📜 License
-
-MIT
