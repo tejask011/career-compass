@@ -13,6 +13,11 @@ An AI-powered career guidance platform that analyzes your resume and provides ac
 - **Image OCR Support** — Uses `tesseract.js` to extract text from resume images via Optical Character Recognition
 - **Drag & Drop Upload** — Simply drag your file onto the upload area
 
+Deployment link:
+https://career-compass-self.vercel.app
+<img width="1879" height="872" alt="image" src="https://github.com/user-attachments/assets/7320c5af-9940-4e4a-b5cc-1f718b41fee6" />
+
+
 ## 🛠️ Tech Stack
 
 | Layer       | Technology                          |
