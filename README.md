@@ -2,7 +2,7 @@
 
 An AI-powered career guidance platform that analyzes your resume and provides actionable insights to accelerate your career growth.
 
-## ✨ Features
+## Features
 
 - **Resume Analysis** — Upload a PDF, image, or paste text to get an AI-powered review
 - **Improved Resume** — Receive a professionally rewritten version of your resume in clean markdown format
